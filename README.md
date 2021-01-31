@@ -1,1 +1,3 @@
-# Paradox
+# Paradox: The Game
+
+Game under construction
